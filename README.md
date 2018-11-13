@@ -6,7 +6,7 @@ This website includes all my featured works
 This website is built using html, css and bootstrap library and is Compatible with all devices
 
 ## Running the website:
-All you need is to download the website files using this [link](https://github.com/ZeinaKittaneh/portfolio)
+All you need is to download the website files using this [link](https://github.com/ZeinaKittaneh/Zeina_Portfolio)
 
 ## License
 
